@@ -22,4 +22,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naz365&show_icons=true&locale=en&layout=compact" alt="naz365" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naz365&show_icons=true&locale=en" alt="naz365" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=gotham_icons=true)
+
