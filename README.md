@@ -13,7 +13,7 @@
 <a href="https://linkedin.com/in/nazmul365/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nazmul365/" height="30" width="40" /></a>
 <a href="https://fb.com/naze65" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/naze65" height="30" width="40" /></a>
 <a href="https://instagram.com/nazmul365/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/nazmul365/" height="30" width="40" /></a>
-<a href="https://medium.com/naz365" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@naz365" height="30" width="40" /></a>
+<a href="https://medium.com/@Naz365" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@naz365" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/cwq4TPr4us" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/cwq4TPr4us" height="30" width="40" /></a>
 </p>
 
