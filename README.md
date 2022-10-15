@@ -1,5 +1,5 @@
 <h1 align="center">ٱلسَّلَامُ عَلَيْكُمْ || Hi 👋, I'm Mohammad Nazmul Hossain</h1>
-<h3 align="center">A Front-end Web Developer. Committed to making some hassle-free and fast Websites for his clients. Love to create new ideas and also love to implement ideas as well. A dreamer, a `believer`, and a very ordinary man.</h3>
+<h3 align="center">Love to create new ideas and also love to implement ideas as well. A dreamer, a `believer`, and a very ordinary man.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naz365&label=Profile%20views&color=0e75b6&style=flat" alt="naz365" /> </p>
 
