@@ -1,4 +1,4 @@
-<h1 align="center"> স্বাগতম|| ٱلسَّلَامُ عَلَيْكُمْ || Hi 👋, I'm Mohammad Nazmul Hossain</h1>
+<h1 align="center"> স্বাগতম || ٱلسَّلَامُ عَلَيْكُمْ || Hi 👋, I'm Mohammad Nazmul Hossain</h1>
 <h3 align="center"> I am passionate about generating innovative ideas and putting them into action. I possess a keen imagination and a strong conviction in what I believe. Although I consider myself to be an average person, I am constantly dreaming of new possibilities and aspiring to achieve great things. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naz365&label=Profile%20views&color=0e75b6&style=flat" alt="naz365" /> </p>
